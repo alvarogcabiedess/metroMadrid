@@ -1,0 +1,40 @@
+body {
+    align-items: center;
+    background-color: #f0f0f0;
+    display: flex;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 10px;
+    width: 100%;
+
+    
+}
+
+.bodyMetro {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 100px; /* Ajusta el tamaño del logo */
+    height: auto;
+}
+
+.lineaMetro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0.5%;
+    width: 7%;
+}
+
+.large {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}

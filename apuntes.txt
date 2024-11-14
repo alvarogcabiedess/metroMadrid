@@ -1,0 +1,13 @@
+Líneas de metro
+Línea 1: Atocha - Sol (Serie 1000)
+Línea 2: Sol - Goya (Serie 2000)
+Línea 3: Moncloa - Sol (Serie 3000)
+Línea 4: Atocha - Goya (Serie 4000)
+Línea 5: Callao - Goya (Serie 5000)
+Línea 6: Moncloa - Callao (Serie 6000)
+Línea 7: Callao - Goya (Serie 7000)
+Línea 8: Atocha - Callao (Serie 8000)
+Línea 9: Moncloa - Goya (Serie 9000)
+Línea 10: Atocha - Goya (Serie 10000)
+Línea 11: Moncloa - Callao (Serie 11000)
+Línea 12: Atocha - Callao (Serie 12000)
